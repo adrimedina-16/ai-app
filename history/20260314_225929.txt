@@ -1,0 +1,9 @@
+ACTION: Summarize
+
+ORIGINAL:
+un gato negro bonito que se encuentra al lado de un lago azul, el cielo con nubes. el pasisaje debe ser de naturaleza
+
+RESULT:
+Here is a summary of the text:
+
+El texto describe un paisaje natural con un hermoso gato negro que se encuentra al lado de un lago azul, con un cielo nublado. Es una escena apacible y tranquila de la naturaleza.
