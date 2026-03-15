@@ -11,7 +11,10 @@ import hashlib
 # SETUP
 # -----------------------
 
-client = boto3.client("bedrock-runtime")
+client = boto3.client(
+    "bedrock-runtime",
+    region_name="us-east-1"
+)
 
 os.makedirs("gallery", exist_ok=True)
 os.makedirs("history", exist_ok=True)
